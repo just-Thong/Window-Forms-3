@@ -1,0 +1,13 @@
+Z:\TKForm\TKForm\bin\Debug\TKForm.exe.config
+Z:\TKForm\TKForm\bin\Debug\TKForm.exe
+Z:\TKForm\TKForm\bin\Debug\TKForm.pdb
+Z:\TKForm\TKForm\obj\Debug\TKForm.csproj.AssemblyReference.cache
+Z:\TKForm\TKForm\obj\Debug\TKForm.frmMain.resources
+Z:\TKForm\TKForm\obj\Debug\TKForm.Properties.Resources.resources
+Z:\TKForm\TKForm\obj\Debug\TKForm.csproj.GenerateResource.cache
+Z:\TKForm\TKForm\obj\Debug\TKForm.csproj.CoreCompileInputs.cache
+Z:\TKForm\TKForm\obj\Debug\TKForm.exe
+Z:\TKForm\TKForm\obj\Debug\TKForm.pdb
+Z:\TKForm\TKForm\obj\Debug\TKForm.frmBai1.resources
+Z:\TKForm\TKForm\obj\Debug\TKForm.frmBai2.resources
+Z:\TKForm\TKForm\obj\Debug\TKForm.frmBai3.resources
